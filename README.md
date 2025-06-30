@@ -4,6 +4,7 @@ This project implements a custom STM32-based development board, designed as a pe
 **Tools Used**
 
 `Altium Designer`
+`Visual Studio Code`
 `Git`
 
 ---
