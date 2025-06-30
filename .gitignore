@@ -1,0 +1,33 @@
+# Altium temporary / local user settings
+*.PrjPcbStructure
+*.PrjPCBSettings
+*.IntLib
+*.DesignRuleCheck
+*.PCBDocPreview
+.__Previews/
+
+# Compiled outputs (optional to ignore)
+*.log
+*.html
+*.out
+*.Report
+*.mnl
+*.zip
+*.svg
+
+# Altium backup/autosave files
+~$*
+*.bak
+*.tmp
+
+# System-specific
+.DS_Store
+Thumbs.db
+*.db
+*.suo
+*.user
+*.tmp
+
+# VS Code or JetBrains metadata (if used)
+.vscode/
+.idea/
