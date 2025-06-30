@@ -4,7 +4,8 @@
 *.IntLib
 *.DesignRuleCheck
 *.PCBDocPreview
-.__Previews/
+*.SchDocPreview
+
 
 # Compiled outputs (optional to ignore)
 *.log
