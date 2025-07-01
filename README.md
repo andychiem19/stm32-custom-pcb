@@ -19,4 +19,4 @@ This project implements a custom STM32-based development board, designed as a pe
 
 #### **Board Schematic**
 
-![Initial schematic](https://github.com/andychiem19/stm32-custom-pcb/tree/main/docs/initschematic.jpg "Initial schematic")
+![Screenshot_2](https://github.com/user-attachments/assets/de77d3c9-898a-446d-adb8-ee600bf2a557)
