@@ -17,3 +17,6 @@ This project implements a custom STM32-based development board, designed as a pe
 - Datasheet interpretation, component selection, and preparing a board for manufacturing
 - Build a foundation for future embedded firmware and system integration projects
 
+#### **Board Schematic**
+
+![Initial schematic](https://github.com/andychiem19/stm32-custom-pcb/tree/main/docs/initschematic.jpg "Initial schematic")
